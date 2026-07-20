@@ -7,14 +7,7 @@
 
 ## Team
 
-| Reg No | Name |
-|---|---|
-| IT24101574 | Dhanapala N. N. |
-| IT24103987 | Ilma M. S. F. |
-| IT24101571 | Balasooriya K. S. B. |
-| IT24101546 | De Silva G. H. T. D. |
-| IT24101618 | Rosayro M. C. J. De |
-| IT24101629 | Wijesundara W. M. B. H. |
+Done by PG122.
 
 ## Overview
 
